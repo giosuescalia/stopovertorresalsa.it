@@ -1,22 +1,4 @@
-[index (8).html](https://github.com/user-attachments/files/31441345/index.8.html)
-<!DOCTYPE html>
-<!--
-  ================================================================
-  STOP OVER · Riserva Naturale Torre Salsa
-  Sito in un solo file: carichi index.html + og.jpg e sei online.
-  Le foto sono già incorporate, non servono altre cartelle.
 
-  DA PERSONALIZZARE (cerca il testo tra virgolette):
-  1. "Aperto in stagione, tutti i giorni dalle 9:00"  -> orari reali
-  2. FAQ "Quanto costa?"                             -> tariffe navetta / ombrelloni
-  3. "con corse durante tutta la giornata"           -> frequenza navetta
-  4. Instagram/Facebook: aggiungi i link nel footer
-  5. og.jpg -> deve stare nella stessa cartella di index.html
-
-  QUANDO COMPRI IL DOMINIO stopovertorresalsa.it:
-  sostituisci https://scalia98.github.io/stopover/ con https://stopovertorresalsa.it/
-  nelle 5 righe in alto (canonical, og:url, og:image, "url", "image").
-  ================================================================
 -->
 <html lang="it">
 <head>
